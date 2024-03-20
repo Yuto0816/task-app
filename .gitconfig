@@ -1,0 +1,6 @@
+[user]
+	email = yutoharuto816412@gmail.com
+	name = Yuto Watanabe
+# [credential]
+	# helper = osxkeychain
+# git config --system --unset credential.helpergit config --system --unset credential.helper

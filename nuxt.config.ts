@@ -25,5 +25,5 @@ export default defineNuxtConfig({
     firebase: {
       gen: 2
     }
-  }
+  },
 })
